@@ -18,5 +18,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //one分支第二次改动
+        i=1;
+        j=2;
+        k=3;
+
+        a="a";
+        b="b";
     }
 }
