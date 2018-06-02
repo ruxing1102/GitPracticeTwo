@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+<<<<<<< HEAD
         //one分支第二次改动
+=======
+        //one分支的第一次改动
+>>>>>>> 25f22230ca833285f3a819dc16856f6d685f9adb
     }
 }
